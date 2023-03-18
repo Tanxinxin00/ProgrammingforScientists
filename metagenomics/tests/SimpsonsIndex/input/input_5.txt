@@ -1,0 +1,3 @@
+penguins 6
+pandas 8
+tigers 5

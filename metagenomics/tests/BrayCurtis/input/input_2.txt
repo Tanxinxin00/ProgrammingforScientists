@@ -1,0 +1,7 @@
+tigers 5
+pandas 8
+penguins 6
+-
+lions 6
+dinosaurs 7
+bats 8

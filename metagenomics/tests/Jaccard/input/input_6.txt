@@ -1,0 +1,8 @@
+tigers 5
+pandas 8
+penguins 6
+-
+tigers 5
+pandas 8
+penguins 6
+bats 9
